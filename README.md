@@ -1,4 +1,5 @@
 # flutter_advanced_button
+An advanced button widget, that can be fully customized with size, text, color, radius of corners.
 
 A new Flutter package project.
 
