@@ -1,8 +1,11 @@
 name: flutter_advanced_button
 description: An advanced button widget, that can be fully customized with size, text, color, radius of corners.
-version: 1.0.1
+version: 1.0.2
 author: Erfan Rahmati<erfanrht1384.com@gmail.com>
 homepage: https://github.com/ErfanRht/flutter_advanced_button
+repository: https://github.com/ErfanRht/flutter_advanced_button
+issue_tracker: https://github.com/ErfanRht/flutter_advanced_button/issues
+documentation: https://github.com/ErfanRht/flutter_advanced_button/blob/master/README.md
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,8 +14,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get: ^4.3.8
-
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
